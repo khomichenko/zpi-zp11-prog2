@@ -1,0 +1,10 @@
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\bin\Debug\Lab_5.exe
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\bin\Debug\Lab_5.pdb
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\bin\Debug\Lab_4.exe
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\bin\Debug\Lab_4.pdb
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\obj\Debug\Lab_5.csproj.AssemblyReference.cache
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\obj\Debug\Lab_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\obj\Debug\Lab_5.csproj.CopyComplete
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\obj\Debug\Lab_5.exe
+C:\Users\khomichenko\RiderProjects\Prog2\Lab_5\obj\Debug\Lab_5.pdb
